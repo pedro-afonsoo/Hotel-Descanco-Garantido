@@ -49,7 +49,7 @@ Reserva o quarto disponível e armazena as informações da reserva.
 
 
 
-## *2. Planejamento dos Casos de Teste*
+# *2. Planejamento dos Casos de Teste*
 ## Sprint 1
 ## Funcionalidade: Cadastro de Clientes
 
@@ -57,8 +57,11 @@ Reserva o quarto disponível e armazena as informações da reserva.
 
 Entrada:
 Nome: "João Silva"
+
 Endereço: "Rua A, 123, Centro, 12345-678"
+
 Telefone: "123456789"
+
 Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "1. Cliente".

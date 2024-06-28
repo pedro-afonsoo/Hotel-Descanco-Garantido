@@ -32,9 +32,9 @@ Reserva o quarto disponível e armazena as informações da reserva.
 
 ## *2. Planejamento dos Casos de Teste*
 ## Sprint 1
-Funcionalidade: Cadastro de Clientes
+## Funcionalidade: Cadastro de Clientes
 
-Caso de Teste 1: Cadastro de Cliente
+### Caso de Teste 1: Cadastro de Cliente
 
 Entrada:
 Nome: "João Silva"
@@ -52,7 +52,8 @@ Saída Esperada:
 Código de cliente gerado e exibido.
 Informações do cliente e detalhes da reserva exibidos corretamente.
 Mensagem de confirmação com valor total da hospedagem.
-Caso de Teste 2: Validação do Número de Telefone
+
+### Caso de Teste 2: Validação do Número de Telefone
 
 Entrada:
 Telefone: "12345abc9"
@@ -65,7 +66,7 @@ Saída Esperada:
 Mensagem de erro "Número de telefone incorreto. Digite novamente."
 Funcionalidade: Verificação de Disponibilidade
 
-Caso de Teste 3: Verificação de Disponibilidade do Quarto
+### Caso de Teste 3: Verificação de Disponibilidade do Quarto
 
 Entrada:
 Data de Entrada: "05/01/2024"
@@ -80,7 +81,7 @@ Detalhes da reserva exibidos corretamente.
 Sprint 2
 Funcionalidade: Cadastro de Funcionários
 
-Caso de Teste 4: Cadastro de Funcionário
+### Caso de Teste 4: Cadastro de Funcionário
 
 Entrada:
 Nome: "Maria Souza"
@@ -94,7 +95,8 @@ Confirmar o código de funcionário gerado e as informações exibidas.
 Saída Esperada:
 Código de funcionário gerado e exibido.
 Informações do funcionário e detalhes do cargo exibidos corretamente.
-Caso de Teste 5: Validação do Número de Telefone do Funcionário
+
+### Caso de Teste 5: Validação do Número de Telefone do Funcionário
 
 Entrada:
 Telefone: "abc987654"
@@ -107,7 +109,7 @@ Saída Esperada:
 Mensagem de erro "Número de telefone incorreto. Digite novamente."
 Funcionalidade: Consulta de Clientes Cadastrados
 
-Caso de Teste 6: Consulta de Cliente Cadastrado
+### Caso de Teste 6: Consulta de Cliente Cadastrado
 
 Entrada:
 Código do Cliente: "1001"
@@ -118,7 +120,8 @@ Inserir o código do cliente.
 Saída Esperada:
 Informações do cliente exibidas corretamente.
 Detalhes da reserva exibidos corretamente.
-Caso de Teste 7: Consulta de Cliente Não Cadastrado
+
+### Caso de Teste 7: Consulta de Cliente Não Cadastrado
 
 Entrada:
 Código do Cliente: "9999"
@@ -130,7 +133,7 @@ Saída Esperada:
 Mensagem de erro "Cliente com código 9999 não encontrado."
 Funcionalidade: Consulta de Funcionários Cadastrados
 
-Caso de Teste 8: Consulta de Funcionário Cadastrado
+### Caso de Teste 8: Consulta de Funcionário Cadastrado
 
 Entrada:
 Código do Funcionário: "1001"

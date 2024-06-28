@@ -55,14 +55,12 @@ Reserva o quarto disponível e armazena as informações da reserva.
 
 ### Caso de Teste 1: Cadastro de Cliente
 
-#### Entrada: ####
+#### Entrada: 
 Nome: "João Silva"
-
 Endereço: "Rua A, 123, Centro, 12345-678"
-
 Telefone: "123456789"
 
-Procedimento de Teste:
+### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "1. Cliente".
 Inserir o nome, endereço e telefone conforme indicado.
@@ -70,38 +68,43 @@ Confirmar o código de cliente gerado.
 Inserir a data de entrada "05/01/2024" e data de saída "10/01/2024".
 Inserir a quantidade de hóspedes "1".
 Confirmar a reserva.
-Saída Esperada:
+
+#### Saída Esperada:
 Código de cliente gerado e exibido.
 Informações do cliente e detalhes da reserva exibidos corretamente.
 Mensagem de confirmação com valor total da hospedagem.
 
+
 ### Caso de Teste 2: Validação do Número de Telefone
 
-Entrada:
+#### Entrada:
 Telefone: "12345abc9"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "1. Cliente".
 Inserir nome e endereço válidos.
 Inserir o telefone com caracteres inválidos.
-Saída Esperada:
+#### Saída Esperada:
 Mensagem de erro "Número de telefone incorreto. Digite novamente."
 Funcionalidade: Verificação de Disponibilidade
 
+
 ### Caso de Teste 3: Verificação de Disponibilidade do Quarto
 
-Entrada:
+#### Entrada:
 Data de Entrada: "05/01/2024"
 Data de Saída: "10/01/2024"
 Hóspedes: "1"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Realizar o cadastro de um cliente.
 Inserir as datas de hospedagem e a quantidade de hóspedes.
-Saída Esperada:
+#### Saída Esperada:
 Mensagem confirmando a disponibilidade do quarto.
 Detalhes da reserva exibidos corretamente.
-Sprint 2
-Funcionalidade: Cadastro de Funcionários
+
+
+## Sprint 2
+#### Funcionalidade: Cadastro de Funcionários
 
 ### Caso de Teste 4: Cadastro de Funcionário
 
@@ -157,21 +160,22 @@ Funcionalidade: Consulta de Funcionários Cadastrados
 
 ### Caso de Teste 8: Consulta de Funcionário Cadastrado
 
-Entrada:
+#### Entrada:
 Código do Funcionário: "1001"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "4. Funcionários cadastrados".
 Inserir o código do funcionário.
-Saída Esperada:
+#### Saída Esperada:
 Informações do funcionário exibidas corretamente.
-Caso de Teste 9: Consulta de Funcionário Não Cadastrado
 
-Entrada:
+## Caso de Teste 9: Consulta de Funcionário Não Cadastrado
+
+#### Entrada:
 Código do Funcionário: "9999"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "4. Funcionários cadastrados".
 Inserir o código de funcionário inexistente.
-Saída Esperada:
+#### Saída Esperada:
 Mensagem de erro "Funcionário com código 9999 não encontrado."

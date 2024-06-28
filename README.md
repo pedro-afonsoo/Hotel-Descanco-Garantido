@@ -31,7 +31,7 @@ Verifica a disponibilidade dos quartos com base nas datas de entrada e saída fo
 Reserva o quarto disponível e armazena as informações da reserva.
 
 ## *2. Planejamento dos Casos de Teste*
-Sprint 1
+## Sprint 1
 Funcionalidade: Cadastro de Clientes
 
 Caso de Teste 1: Cadastro de Cliente

@@ -15,6 +15,7 @@ Solicita as datas de entrada e saída da hospedagem, verificando a disponibilida
 
 Calcula o valor total da hospedagem e confirma a reserva.
 
+
 ### Cadastro de Funcionários:
 
 Recebe o nome completo e telefone do funcionário.
@@ -25,17 +26,20 @@ Solicita o cargo e define o salário correspondente.
 
 Verifica se há vagas disponíveis para o cargo escolhido.
 
+
 ### Consulta de Clientes Cadastrados:
 
 Permite a consulta de informações de um cliente cadastrado através do código do cliente.
 
 Exibe as informações pessoais e detalhes da reserva, incluindo o código de estadia.
 
+
 ### Consulta de Funcionários Cadastrados:
 
 Permite a consulta de informações de um funcionário cadastrado através do código do funcionário.
 
 Exibe as informações pessoais, cargo e salário.
+
 
 ### Verificação de Disponibilidade de Quartos:
 

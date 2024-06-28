@@ -59,7 +59,6 @@ Reserva o quarto disponível e armazena as informações da reserva.
 Nome: "João Silva"
 Endereço: "Rua A, 123, Centro, 12345-678"
 Telefone: "123456789"
-
 ### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "1. Cliente".
@@ -68,7 +67,6 @@ Confirmar o código de cliente gerado.
 Inserir a data de entrada "05/01/2024" e data de saída "10/01/2024".
 Inserir a quantidade de hóspedes "1".
 Confirmar a reserva.
-
 #### Saída Esperada:
 Código de cliente gerado e exibido.
 Informações do cliente e detalhes da reserva exibidos corretamente.
@@ -108,53 +106,53 @@ Detalhes da reserva exibidos corretamente.
 
 ### Caso de Teste 4: Cadastro de Funcionário
 
-Entrada:
+#### Entrada:
 Nome: "Maria Souza"
 Telefone: "987654321"
 Cargo: "1" (Recepcionista)
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "2. Funcionário".
 Inserir o nome, telefone e cargo conforme indicado.
 Confirmar o código de funcionário gerado e as informações exibidas.
-Saída Esperada:
+#### Saída Esperada:
 Código de funcionário gerado e exibido.
 Informações do funcionário e detalhes do cargo exibidos corretamente.
 
 ### Caso de Teste 5: Validação do Número de Telefone do Funcionário
 
-Entrada:
+#### Entrada:
 Telefone: "abc987654"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "2. Funcionário".
 Inserir nome válido.
 Inserir o telefone com caracteres inválidos.
-Saída Esperada:
+#### Saída Esperada:
 Mensagem de erro "Número de telefone incorreto. Digite novamente."
 Funcionalidade: Consulta de Clientes Cadastrados
 
 ### Caso de Teste 6: Consulta de Cliente Cadastrado
 
-Entrada:
+#### Entrada:
 Código do Cliente: "1001"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "3. Clientes cadastrados".
 Inserir o código do cliente.
-Saída Esperada:
+#### Saída Esperada:
 Informações do cliente exibidas corretamente.
 Detalhes da reserva exibidos corretamente.
 
 ### Caso de Teste 7: Consulta de Cliente Não Cadastrado
 
-Entrada:
+#### Entrada:
 Código do Cliente: "9999"
-Procedimento de Teste:
+#### Procedimento de Teste:
 Iniciar o programa.
 Selecionar a opção "3. Clientes cadastrados".
 Inserir o código de cliente inexistente.
-Saída Esperada:
+#### Saída Esperada:
 Mensagem de erro "Cliente com código 9999 não encontrado."
 Funcionalidade: Consulta de Funcionários Cadastrados
 

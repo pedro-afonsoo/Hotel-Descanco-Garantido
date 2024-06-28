@@ -55,7 +55,7 @@ Reserva o quarto disponível e armazena as informações da reserva.
 
 ### Caso de Teste 1: Cadastro de Cliente
 
-#### Entrada:
+#### Entrada: ####
 Nome: "João Silva"
 
 Endereço: "Rua A, 123, Centro, 12345-678"

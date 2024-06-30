@@ -13,16 +13,37 @@ Gera um código único para o cliente.
 
 Solicita as datas de entrada e saída da hospedagem, verificando a disponibilidade dos quartos.
 
+### Oferta de Quartos
+
+Oferece aos clientes 2 quartos de casal e 2 quartos de solteiro.
+
+### Verificação de Disponibilidade de Quartos:
+
+Não permite números negativos, datas incorretas ou anteriores a 01/01/2024.
+
+A data de saída deve ser posterior à data de entrada na hospedagem.
+
+Permite alugar um quarto no mesmo dia em que a hospedagem de outra pessoa termina.
+  
 Calcula o valor total da hospedagem e confirma a reserva.
 
+A hospedagem sempre começa às 14h e termina às 12h do dia seguinte, solicitando o dia anterior à última estadia para evitar a inutilização do quarto no último dia de hospedagem.
+
+### Bloqueio de Quartos:
+
+Bloqueia o quarto alugado durante o período de entrada e saída.
 
 ### Cadastro de Funcionários:
 
 Recebe o nome completo e telefone do funcionário.
 
-Gera um código único para o funcionário.
+Gera um código único para o funcionário de 4 digitos.
 
 Solicita o cargo e define o salário correspondente.
+
+### Limite de Funcionários:
+
+Permite no máximo 2 auxiliares de limpeza, 2 garçons, 2 secretárias e 1 gerente para cadastro.
 
 Verifica se há vagas disponíveis para o cargo escolhido.
 
@@ -39,13 +60,6 @@ Exibe as informações pessoais e detalhes da reserva, incluindo o código de es
 Permite a consulta de informações de um funcionário cadastrado através do código do funcionário.
 
 Exibe as informações pessoais, cargo e salário.
-
-
-### Verificação de Disponibilidade de Quartos:
-
-Verifica a disponibilidade dos quartos com base nas datas de entrada e saída fornecidas pelo cliente.
-
-Reserva o quarto disponível e armazena as informações da reserva.
 
 
 

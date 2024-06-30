@@ -1,6 +1,6 @@
 ## CLIENTE
 - 1
-(outro numero sem ser entre 1 e 4 não da certo)
+(Outro numero sem ser entre 1 e 4 não da certo)
 - Pedro
 - Rua Azul, 123
 - 123456789

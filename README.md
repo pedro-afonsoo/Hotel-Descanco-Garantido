@@ -1,11 +1,11 @@
-# Hotel-Descanco-Garantido
+  # Hotel-Descanco-Garantido
 ## *1. Documentação das Funcionalidades do Software*
 
 ## Introdução
 - O software desenvolvido é um sistema de reservas para um hotel, que permite o cadastro de clientes e funcionários, a reserva de quartos e a verificação de disponibilidade de quartos. O sistema é interativo, utilizando o terminal para entrada e saída de dados.
 
 ## Funcionalides:
-## *Cadastro de Clientes:*
+  ## *Cadastro de Clientes:*
 
 - Recebe o nome completo, endereço e telefone do cliente.
 
@@ -35,7 +35,7 @@
 
 - Bloqueia o quarto alugado durante o período de entrada e saída.
 
-## *Cadastro de Funcionários:*
+   ## *Cadastro de Funcionários:*
 
 - Recebe o nome completo e telefone do funcionário.
 
@@ -50,26 +50,26 @@
 - Verifica se há vagas disponíveis para o cargo escolhido.
 
 
-## *Consulta de Clientes Cadastrados:*
+  ## *Consulta de Clientes Cadastrados:*
 
 - Permite a consulta de informações de um cliente cadastrado através do código do cliente.
 
 - Exibe as informações pessoais e detalhes da reserva, incluindo o código de estadia.
 
 
-## *Consulta de Funcionários Cadastrados:*
+  ## *Consulta de Funcionários Cadastrados:*
 
 - Permite a consulta de informações de um funcionário cadastrado através do código do funcionário.
 
 - Exibe as informações pessoais, cargo e salário.
 
-## *Validação de Entrada de Dados:*
+  ## *Validação de Entrada de Dados:*
 
 - Aceita apenas números ou letras válidas, dependendo da pergunta feita durante o cadastro.
 
-# 2. Planejamento dos Casos de Teste
+  # 2. Planejamento dos Casos de Teste
 
-## Sprint 1
+  ## Sprint 1
 
 ### Funcionalidade: Cadastro de Clientes
 
@@ -123,7 +123,7 @@ Hóspedes: "1"
 - Mensagem confirmando a disponibilidade do quarto.
 - Detalhes da reserva exibidos corretamente.
 
-## Sprint 2
+  ## Sprint 2
 
 ### Funcionalidade: Cadastro de Funcionários
 

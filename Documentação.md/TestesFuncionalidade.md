@@ -9,5 +9,5 @@
 - 1 (outro numero sem ser entre 1 e 4 não da certo)
 - s ( se 'n' ou outra letra, encerra o programa )
 
-## FUNCIONARIO
+## FUNCIONÁRIO
 - 

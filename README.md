@@ -177,3 +177,42 @@ Selecionar a opção "4. Funcionários cadastrados".
 Inserir o código de funcionário inexistente.
 #### Saída Esperada:
 Mensagem de erro "Funcionário com código 9999 não encontrado."
+
+
+# Requisitos, Funcionalidades e Observações
+
+## Cadastro de Usuário
+
+- Gera um código de cliente ou funcionário novo de 4 dígitos.
+- Requer nome e número de telefone (apenas números) para todos os tipos de usuários.
+- Para clientes, também solicita CEP e complemento.
+
+## Oferta de Quartos
+
+- Oferece aos clientes 2 quartos de casal e 2 quartos de solteiro.
+
+## Validações de Reserva
+
+- Não permite números negativos, datas incorretas ou anteriores a 01/01/2024.
+- A data de saída deve ser posterior à data de entrada na hospedagem.
+
+## Reservas de Quartos
+
+- Permite alugar um quarto no mesmo dia em que a hospedagem de outra pessoa termina.
+- A hospedagem sempre começa às 14h e termina às 12h do dia seguinte, solicitando o dia anterior à última estadia para evitar a inutilização do quarto no último dia de hospedagem.
+
+## Bloqueio de Quartos
+
+- Bloqueia o quarto alugado durante o período de entrada e saída.
+
+## Limite de Funcionários
+
+- Permite no máximo 2 auxiliares de limpeza, 2 garçons, 2 secretárias e 1 gerente para cadastro.
+
+## Segurança e Acesso
+
+- Permite que os usuários visualizem funcionários e clientes cadastrados apenas se fornecerem o número do código gerado para fins de segurança.
+
+## Validação de Entrada de Dados
+
+- Aceita apenas números ou letras válidas, dependendo da pergunta feita durante o cadastro.

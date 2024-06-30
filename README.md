@@ -4,8 +4,8 @@
 ## Introdução
 - O software desenvolvido é um sistema de reservas para um hotel, que permite o cadastro de clientes e funcionários, a reserva de quartos e a verificação de disponibilidade de quartos. O sistema é interativo, utilizando o terminal para entrada e saída de dados.
 
-## Funcionalidades
-    ## *Cadastro de Clientes:*
+## Funcionalides:
+## *Cadastro de Clientes:*
 
 - Recebe o nome completo, endereço e telefone do cliente.
 

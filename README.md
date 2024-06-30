@@ -23,6 +23,8 @@ Não permite números negativos, datas incorretas ou anteriores a 01/01/2024.
 
 A data de saída deve ser posterior à data de entrada na hospedagem.
 
+### Reservas de Quartos
+
 Permite alugar um quarto no mesmo dia em que a hospedagem de outra pessoa termina.
   
 Calcula o valor total da hospedagem e confirma a reserva.

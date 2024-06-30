@@ -210,3 +210,15 @@ Código do Funcionário: "9999"
 
 **Saída Esperada:**
 - Mensagem de erro "Funcionário com código 9999 não encontrado."
+
+## *Bibliotecas Utilizadas:*
+
+1. **stdio.h**: Biblioteca padrão de entrada e saída em C, utilizada para funções como `printf` e `scanf`.
+
+2. **stdlib.h**: Fornece funções para alocação de memória (`malloc`, `free`) e geração de números aleatórios (`rand`, `srand`).
+
+3. **string.h**: Contém funções para manipulação de strings, como `strcpy` (cópia de strings) e `strlen` (comprimento de strings).
+
+4. **ctype.h**: Fornece funções para manipulação de caracteres, como `isdigit` (verifica se um caractere é um dígito).
+
+5. **time.h**: Permite manipulação de data e hora, com funções como `time` (obtém o tempo atual) e `mktime` (converte uma estrutura `tm` em um `time_t`).

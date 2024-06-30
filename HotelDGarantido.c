@@ -234,7 +234,7 @@ int main() {
                         // Pergunta se deseja continuar
                         printf("\nDeseja continuar com a hospedagem? (S/N)\n");
                         scanf(" %c", &continuar);
-                        if (continuar == 'N' || continuar == 'n' || continuar != 'S' || continuar != 's') {
+                        if (continuar != 'S' && continuar != 's') {
                             break;
                         } else {
                             // Cálculo do código de estadia, mensagem de confirmação, etc.

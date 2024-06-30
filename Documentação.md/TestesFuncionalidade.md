@@ -1,3 +1,6 @@
+# TESTES DE FUNCIONALIDADE PRONTOS
+Aqui váo alguns testes prontos, so precisa digitar na ordem em que está:
+
 ## CLIENTE
 ### EXEMPLO
 - 1 (outro numero sem ser entre 1 e 4 não da certo)

@@ -1,5 +1,6 @@
   # Hotel-Descanco-Garantido
-  ## Sprint 1
+   # *Planejamento dos Casos de Teste*
+  ## *Sprint 1*
 
 ### Funcionalidade: Cadastro de Clientes
 
@@ -53,7 +54,7 @@ Hóspedes: "1"
 - Mensagem confirmando a disponibilidade do quarto.
 - Detalhes da reserva exibidos corretamente.
 
-  ## Sprint 2
+  ## *Sprint 2*
 
 ### Funcionalidade: Cadastro de Funcionários
 

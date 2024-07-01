@@ -1,6 +1,6 @@
 # TESTES DE FUNCIONALIDADE PRONTOS
 - PEDRO AFONSO MACHADO VASCONCELOS
-- THIAGO COSTA
+- THIAGO COSTA SOARES
 ## Aqui estão alguns testes prontos, precisa somente digitar na ordem em que está:
 
 ## CLIENTE

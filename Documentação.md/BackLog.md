@@ -4,7 +4,7 @@
    # *Planejamento dos Casos de Teste*
   ## *Sprint 1*
 - Fazer arquitetura de como ficara o codigo
-- Adicionar bibliotecas:#include <stdio.h>,
+- Adicionar bibliotecas:  #include <stdio.h>,
 #include <stdlib.h>,
 #include <string.h>,
 #include <ctype.h>,

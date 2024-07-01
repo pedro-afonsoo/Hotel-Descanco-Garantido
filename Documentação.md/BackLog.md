@@ -8,7 +8,7 @@
 - Adicionar variáveis a serem ultilizadas.
 - Separar o codigo em blocos de funções.
 - Trabalhar na geração de números aleatórios.
-- Trabalhar em na comunicação com o usuário (printf).
+- Trabalhar na comunicação com o usuário (printf).
 ### Funcionalidade: Cadastro de Clientes
 
 #### Caso de Teste 1: Cadastro de Cliente

@@ -28,7 +28,7 @@ Aqui váo alguns testes prontos, so precisa digitar na ordem em que está:
 - s ( se 'n' ou outra letra, encerra o programa )
 
 ## FUNCIONÁRIOS CADASTRADOS
-### EXEMPLO
+### EXEMPLO (somente depois de cadastrar funcionário)
 - 4 (outro numero sem ser entre 1 e 4 não da certo)
 - "Codigo de funcionário" (se não for valido não vai funcionar)
 - s ( se 'n' ou outra letra, encerra o programa )

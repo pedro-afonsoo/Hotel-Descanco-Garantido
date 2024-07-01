@@ -4,11 +4,7 @@
    # *Planejamento dos Casos de Teste*
   ## *Sprint 1*
 - Fazer arquitetura de como ficara o codigo
-- Adicionar bibliotecas:  #include <stdio.h>,
-#include <stdlib.h>,
-#include <string.h>,
-#include <ctype.h>,
-#include <time.h>.
+- Adicionar bibliotecas: stdio.h, stdlib.h, string.h, ctype.h, time.h.
 - Adicionar variáveis a serem ultilizadas.
 - Separar o codigo em blocos de funções.
 - Trabalhar na geração de números aleatórios.

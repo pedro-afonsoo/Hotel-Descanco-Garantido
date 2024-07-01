@@ -1,12 +1,12 @@
-  # Hotel-Descanco-Garantido
+  # Hotel-Descanço-Garantido
 - PEDRO AFONSO MACHADO VASCONCELOS
 - THIAGO COSTA SOARES
    # *BackLog e Planejamento dos Casos de Teste*
   ## *Sprint 1*
-- Fazer arquitetura de como ficara o codigo
+- Fazer arquitetura de como ficará o código
 - Adicionar bibliotecas: stdio.h, stdlib.h, string.h, ctype.h, time.h.
 - Adicionar variáveis a serem ultilizadas.
-- Separar o codigo em blocos de funções.
+- Separar o código em blocos de funções.
 - Trabalhar na geração de números aleatórios.
 - Trabalhar na comunicação com o usuário (printf).
 ### Funcionalidade: Cadastro de Clientes

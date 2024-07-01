@@ -11,7 +11,7 @@
 
 - Recebe o nome completo, endereço e telefone do cliente.
 
-- Gera um código **único** para o cliente.
+- Gera um código ***único*** para o cliente.
 
 - Solicita as datas de entrada e saída da hospedagem, verificando a disponibilidade dos quartos.
 

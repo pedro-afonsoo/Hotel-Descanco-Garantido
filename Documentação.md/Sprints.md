@@ -1,4 +1,6 @@
   # Hotel-Descanco-Garantido
+- PEDRO AFONSO MACHADO VASCONCELOS
+- THIAGO COSTA
    # *Planejamento dos Casos de Teste*
   ## *Sprint 1*
 

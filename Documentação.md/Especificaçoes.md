@@ -1,4 +1,6 @@
   # Hotel-Descanco-Garantido
+- PEDRO AFONSO MACHADO VASCONCELOS
+- THIAGO COSTA
 ## *Bibliotecas Utilizadas:*
 
 1. **stdio.h**: Biblioteca padrão de entrada e saída em C, utilizada para funções como `printf` e `scanf`.

@@ -3,7 +3,16 @@
 - THIAGO COSTA
    # *Planejamento dos Casos de Teste*
   ## *Sprint 1*
-
+- Fazer arquitetura de como ficara o codigo
+- Adicionar bibliotecas:#include <stdio.h>,
+#include <stdlib.h>,
+#include <string.h>,
+#include <ctype.h>,
+#include <time.h>.
+- Adicionar variáveis a serem ultilizadas.
+- Separar o codigo em blocos de funções.
+- Trabalhar na geração de números aleatórios.
+- Trabalhar em na comunicação com o usuário (printf).
 ### Funcionalidade: Cadastro de Clientes
 
 #### Caso de Teste 1: Cadastro de Cliente
@@ -57,7 +66,12 @@ Hóspedes: "1"
 - Detalhes da reserva exibidos corretamente.
 
   ## *Sprint 2*
-
+- Implementar mais variáveis.
+- Corrigir bugs e melhorar funcionalidades.
+- Trabalhar na parte de datas e hospedagem do quarto.
+- Quantificar o número de quartos e funcionários.
+- Não permitir particuliaridades, número negativo, datas erradas ou anteriores a 01/01/2024.
+- Permitir que assim que outra pessoa saia do quarto outra pessoa alugar.
 ### Funcionalidade: Cadastro de Funcionários
 
 #### Caso de Teste 4: Cadastro de Funcionário

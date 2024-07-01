@@ -66,8 +66,8 @@ Hóspedes: "1"
 - Corrigir bugs e melhorar funcionalidades.
 - Trabalhar na parte de datas e hospedagem do quarto.
 - Quantificar o número de quartos e funcionários.
-- Não permitir particuliaridades, número negativo, datas erradas ou anteriores a 01/01/2024.
-- Permitir que assim que outra pessoa saia do quarto outra pessoa alugar.
+- Não permitir particuliaridades: número negativo, datas erradas ou anteriores a 01/01/2024, data de saida < data de entrada.
+- Permitir que assim que outra pessoa saia do quarto outra pessoa alugue.
 ### Funcionalidade: Cadastro de Funcionários
 
 #### Caso de Teste 4: Cadastro de Funcionário

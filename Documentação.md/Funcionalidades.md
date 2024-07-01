@@ -41,7 +41,7 @@
 
 - Recebe o nome completo e telefone do funcionário.
 
-- Gera um código ***único*** para o funcionário de 4 digitos.
+- Gera um código ***único*** para o funcionário de 4 dígitos.
 
 - Solicita o cargo e define o salário correspondente.
 

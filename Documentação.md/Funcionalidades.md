@@ -1,4 +1,6 @@
   # Hotel-Descanco-Garantido
+- PEDRO AFONSO MACHADO VASCONCELOS
+- THIAGO COSTA
 ## *Documentação das Funcionalidades do Software*
 
 ## Introdução

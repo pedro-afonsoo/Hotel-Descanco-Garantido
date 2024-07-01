@@ -1,7 +1,7 @@
 # TESTES DE FUNCIONALIDADE PRONTOS
 - PEDRO AFONSO MACHADO VASCONCELOS
 - THIAGO COSTA
-Aqui váo alguns testes prontos, so precisa digitar na ordem em que está:
+- Aqui váo alguns testes prontos, so precisa digitar na ordem em que está:
 
 ## CLIENTE
 ### EXEMPLO

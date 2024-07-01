@@ -1,4 +1,4 @@
-  # Hotel-Descanco-Garantido
+  # Hotel-Descanço-Garantido
 - PEDRO AFONSO MACHADO VASCONCELOS
 - THIAGO COSTA SOARES
 ## *Bibliotecas Utilizadas:*

@@ -1,7 +1,7 @@
   # Hotel-Descanco-Garantido
 - PEDRO AFONSO MACHADO VASCONCELOS
 - THIAGO COSTA
-   # *Planejamento dos Casos de Teste*
+   # *BackLog e Planejamento dos Casos de Teste*
   ## *Sprint 1*
 - Fazer arquitetura de como ficara o codigo
 - Adicionar bibliotecas: stdio.h, stdlib.h, string.h, ctype.h, time.h.

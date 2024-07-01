@@ -1,6 +1,6 @@
   # Hotel-Descanco-Garantido
 - PEDRO AFONSO MACHADO VASCONCELOS
-- THIAGO COSTA
+- THIAGO COSTA SOARES
    # *BackLog e Planejamento dos Casos de Teste*
   ## *Sprint 1*
 - Fazer arquitetura de como ficara o codigo
